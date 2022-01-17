@@ -1,8 +1,5 @@
-# Collin
-
-- From Minnesota wrong
+- From Minnesota
 - Graduated from UMN
 - 3 siblings
 
-[google](https://www.google.com/)
-
+https://www.google.com/
